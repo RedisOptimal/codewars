@@ -26,7 +26,8 @@ I just solved 47 Kata problems, so....
   - [Mine Sweeper](https://www.codewars.com/kata/57ff9d3b8f7dda23130015fa)
 
 - 2 kyu
-
+  - [6 By 6 Skyscrapers](https://www.codewars.com/kata/5679d5a3f2272011d700000d)
+  - 
 - 3 kyu
 
 - 4 kyu
