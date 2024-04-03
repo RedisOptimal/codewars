@@ -19,21 +19,22 @@ I just solved 47 Kata problems, so....
 
 ### The shortest solution list
 
-1 kyu  
-[Simple Interactive Interpreter](https://www.codewars.com/kata/52ffcfa4aff455b3c2000750)  
-[Tiny Three-Pass Compiler](https://www.codewars.com/kata/5265b0885fda8eac5900093b)  
+- 1 kyu  
 
+  - [Simple Interactive Interpreter](https://www.codewars.com/kata/52ffcfa4aff455b3c2000750)  
+  - [Tiny Three-Pass Compiler](https://www.codewars.com/kata/5265b0885fda8eac5900093b)  
+  - [Mine Sweeper](https://www.codewars.com/kata/57ff9d3b8f7dda23130015fa)
 
-2 kyu
+- 2 kyu
 
-3 kyu
+- 3 kyu
 
-4 kyu
+- 4 kyu
 
-5 kyu
+- 5 kyu
 
-6 kyu
+- 6 kyu
 
-7 kyu
+- 7 kyu
 
-8 kyu
+- 8 kyu
