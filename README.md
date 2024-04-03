@@ -27,7 +27,7 @@ I just solved 47 Kata problems, so....
 
 - 2 kyu
   - [6 By 6 Skyscrapers](https://www.codewars.com/kata/5679d5a3f2272011d700000d)
-  - 
+  - [Symbolic differentiation of prefix expressions](https://www.codewars.com/kata/584daf7215ac503d5a0001ae)
 - 3 kyu
 
 - 4 kyu
