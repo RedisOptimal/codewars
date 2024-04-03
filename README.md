@@ -30,6 +30,7 @@ I just solved 47 Kata problems, so....
   - [Symbolic differentiation of prefix expressions](https://www.codewars.com/kata/584daf7215ac503d5a0001ae)
   - [Assembler interpreter (part II)](https://www.codewars.com/kata/58e61f3d8ff24f774400002c)
   - [Whitespace Interpreter](https://www.codewars.com/kata/52dc4688eca89d0f820004c6)
+  - [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005)
 - 3 kyu
 
 - 4 kyu
