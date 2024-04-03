@@ -33,7 +33,8 @@ I just solved 47 Kata problems, so....
   - [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005)
   - [Simpler Interactive Interpreter](https://www.codewars.com/kata/53005a7b26d12be55c000243)
 - 3 kyu
-  - [The Millionth Fibonacci Kata]()
+  - [The Millionth Fibonacci Kata](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26)
+  - [Fluid Volume of a Heightmap](https://www.codewars.com/kata/5b98dfa088d44a8b000001c1)
 - 4 kyu
 
 - 5 kyu
