@@ -36,7 +36,8 @@ I just solved 47 Kata problems, so....
   - [The Millionth Fibonacci Kata](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26)
   - [Fluid Volume of a Heightmap](https://www.codewars.com/kata/5b98dfa088d44a8b000001c1)
 - 4 kyu
-
+  - Solutions in 4kyu directory.
+  - I'm sorry for lazy. I don't like to waste time add link for each problem. Welcome to PR.
 - 5 kyu
 
 - 6 kyu
